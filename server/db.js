@@ -4,7 +4,7 @@ const pool = new Pool({
     user: 'postgres',
     host: 'localhost',
     database: 'crud-app',
-    password: 'password',
+    password: '123592',
     port: 5001
 })
 
