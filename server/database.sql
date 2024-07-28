@@ -1,7 +1,7 @@
-CREATE DATABASE pern_todo;
+CREATE DATABASE crud-app;
 
 CREATE TABLE todo(
     todo_id SERIAL PRIMARY KEY,
     description VARCHAR(255)
-)
+);
 
